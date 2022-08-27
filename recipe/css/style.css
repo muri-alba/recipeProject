@@ -72,3 +72,44 @@ a.logo-me{
     padding-left: 10px;
 }
 
+div.search-background{
+    width: 60%;
+    text-align:center;
+    background-color: aliceblue;
+    margin: 0 auto;
+    height: 500px;
+    padding-top: 100px;
+    display: block; 
+}
+
+div.title{
+    background-color: bisque;
+    width: 45.5%;
+    height: 80px;
+    margin: 100px auto 0px auto;
+    font-size: 18px;
+    padding: 10px;
+}
+
+div.form-outline{
+    text-align:center;
+    background-color: black;
+    height: 70px;
+    margin: 50px auto  0  auto;
+    width: 100%;
+    display: block;
+}
+
+div.search{
+    background-color: bisque;
+    margin: 0 auto;
+    height: 70px;
+    width: 40%;
+}
+
+input.form-control{
+
+}
+
+
+
